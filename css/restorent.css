@@ -1,0 +1,38 @@
+.bg-5 {
+    background-image: url(../img/Restorent-Regal-Shiv-Talkies-Road\,\ Nehru\ Nagar-Bilaspur.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    color: rgb(255 255 255);
+    position: relative;
+    top: -160px;
+    width: 100%;
+    background-position: center;
+    /* display: block; */
+}
+
+.restorent-hotel-rigal img:hover {
+    outline: 5px solid rgb(255 255 255);
+    outline-offset: -30px;
+    transition: 0.5s;
+    padding: 5px;
+}
+
+.restorent-hotel-rigal img {
+    height: 259px;
+    width: 100%;
+}
+
+.heading-restorent ul>li {
+    font-size: 20px;
+    font-weight: bold;
+    padding: 10px;
+    letter-spacing: 2px;
+}
+
+@media (max-width:1024px) {
+    .restorent-hotel-rigal img {
+        height: auto;
+        width: 100%;
+    }
+}

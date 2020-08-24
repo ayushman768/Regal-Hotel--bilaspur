@@ -1,0 +1,44 @@
+.bg-5 {
+    background-image: url(../img/room-Hotel-Regal-Shiv-Talkies-Road\,\ Nehru\ Nagar-Bilaspur.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    color: rgb(255 255 255);
+    position: relative;
+    top: -160px;
+    width: 100%;
+    background-position: center;
+    /* display: block; */
+}
+
+.hotel-rigal-rooms img {
+    width: 100%!important;
+    display: block;
+}
+
+.feature ul>li {
+    padding: 5px 0px;
+    font-weight: 900;
+}
+
+.price-tag p {
+    font-size: 14px;
+    font-weight: 900;
+}
+
+
+/* .room-details {
+    box-shadow: 0px 3px 7px 2px #d5d6d8;
+} */
+
+@media (max-width:1024px) {
+    .container {
+        padding-right: 15px!important;
+        padding-left: 15px!important;
+        margin-right: auto!important;
+        margin-left: auto!important;
+    }
+    .book {
+        text-align: left!important;
+    }
+}

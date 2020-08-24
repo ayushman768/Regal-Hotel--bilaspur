@@ -1,0 +1,30 @@
+.bg-6 {
+    background-image: url(../img/reservation-Hotel-Regal-Shiv-Talkies-Road\,\ Nehru\ Nagar-Bilaspur.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    color: rgb(255 255 255);
+    position: relative;
+    top: -160px;
+    width: 100%;
+    background-position: center;
+    /* display: block; */
+}
+
+.Price-list ul>li {
+    font-weight: bold;
+    padding: 10px;
+    letter-spacing: 2px;
+}
+
+.Price-list p {
+    padding: 10px;
+    text-align: center;
+    font-weight: 900;
+}
+
+form {
+    background-color: white;
+}
+
+@media (max-width:1024px) {}
